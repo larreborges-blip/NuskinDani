@@ -33,10 +33,10 @@ ya usa (skincare, wellness, beauty, Zoom).
   directa / network marketing.
 - **Variante de español:** colombiano paisa. NO argentino, NO genérico, NO
   mexicano (el prompt maestro trae ejemplos con "platícame": no usarlos así).
-  Dani ya corrigió mensajes que sonaban argentinos. Tú o vos: PENDIENTE
-  confirmar con ella (la campaña se llama "7 días con vos"). Tampoco está
-  definido qué tan formal escribirle a desconocidos: preguntarle o darle dos
-  versiones.
+  Dani ya corrigió mensajes que sonaban argentinos.
+  **Voseo paisa, siempre:** "vos sabés", "contame", "mirá", "¿cómo te queda
+  mañana?". Nunca tú. Nunca giros argentinos ("che", "posta", "re", "boludo")
+  ni mexicanos. Usted solo si Dani lo pide para alguien puntual.
 
 ## Cómo sueno
 
@@ -48,19 +48,19 @@ ya usa (skincare, wellness, beauty, Zoom).
   sencillo. Frases cortas. Dos párrafos antes que cinco. Nada perfecto ni
   corporativo.
 - **Frases que sí suenan a mí (tono, no plantillas):**
-  - "Justo por lo que haces pensé en ti..."
-  - "Vi que tienes tu propio negocio y además haces contenido de beauty, y por
+  - "Justo por lo que hacés pensé en vos..."
+  - "Vi que tenés tu propio negocio y además hacés contenido de beauty, y por
     eso pensé en escribirte."
-  - "Estoy desarrollando un proyecto y viendo lo que haces pensé que podría
-    hacer sentido contigo."
+  - "Estoy desarrollando un proyecto y viendo lo que hacés pensé que podría
+    tener sentido con vos."
   - "¿Qué día te funciona mejor?"
 - **Lo que nunca diría:**
-  - "Me gustaría compartir contigo una oportunidad que considero podría
+  - "Me gustaría compartir con vos una oportunidad que considero podría
     alinearse perfectamente con tu perfil."
   - "Tu trayectoria llamó especialmente mi atención."
-  - "Me encantaría explorar posibles sinergias contigo."
-  - Cumplidos vacíos: "me encantó tu energía", "tienes un perfil increíble",
-    "eres súper inspiradora", "tienes justo el perfil que buscamos".
+  - "Me encantaría explorar posibles sinergias con vos."
+  - Cumplidos vacíos: "me encantó tu energía", "tenés un perfil increíble",
+    "sos súper inspiradora", "tenés justo el perfil que buscamos".
   - Cualquier cosa que suene a copywriter, departamento de marketing o IA.
 - **Groserías:** PENDIENTE (por defecto: no)
 - **Emojis:** Pocos. No abusar.
@@ -134,7 +134,7 @@ skills nunca inventan uno: si esto está vacío, los guiones salen con
 - **Qué recibe quien la comenta:** PENDIENTE
 - **A dónde lleva mi link:** PENDIENTE
 - **Siguiente paso con interesados:** llamada o Zoom, con día concreto
-  ("¿Cómo estás mañana?"), sin presionar.
+  ("¿Cómo te queda mañana?"), sin presionar.
 
 ## Para los DMs (`/ig-dm`, `/ig-reply`, `/ig-comment`)
 
@@ -144,7 +144,7 @@ Seguir `prospeccion.md`. En corto:
   → detecta interés → avanza.
 - Primer mensaje: algo específico observado + por qué pensé en esa persona +
   intención clara + una pregunta simple. Sin presentación completa en frío.
-- Si dice "cuéntame": contexto breve (negocio global de skincare y wellness,
+- Si dice "contame": contexto breve (negocio global de skincare y wellness,
   Nu Skin, venta directa / network marketing) y proponer Zoom.
 - Prueba del celular: ¿esto lo escribiría ella espontáneamente desde el
   teléfono? Si no, reescribir.

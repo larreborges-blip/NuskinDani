@@ -7,7 +7,8 @@ que se publica o se envía.
 ## Antes de cualquier cosa
 
 - Lee `.claude/instagram/voice.md` (quién es Dani, cómo habla, qué está
-  prohibido). Todo sale en **español colombiano paisa**, nunca argentino ni
+  prohibido). Todo sale en **español paisa de Medellín, con voseo** ("vos sabés",
+  "contame"), nunca tú, nunca argentino ni
   genérico.
 - Para DMs, comentarios y prospección, sigue `.claude/instagram/prospeccion.md`.
 - Nunca inventar datos de Nu Skin, resultados de producto ni ingresos. Si falta
